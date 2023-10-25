@@ -7,7 +7,7 @@ export default function login() {
       <div className='child-1'>
         <div className='logo-wrapper'>
         <img className='logo-img' src={logo} alt=""/>
-        <h1 className='logo-text'>Movies App</h1>
+        <h1 className='logo-text'>Movies App1234</h1>
         </div>
         <div className='login-area-headline'>
             <h1>Login to Your Account</h1>
