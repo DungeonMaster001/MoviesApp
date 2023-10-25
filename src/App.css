@@ -1,0 +1,90 @@
+.logo-wrapper{
+  display: flex;
+  margin: 2vmax;
+}
+.logo-img{
+  height: 6vmax;
+  width: 6vmax;
+}
+.logo-text{
+  font-size: 2.5vmax;
+  margin-left: 2vmax;
+}
+.child-2{
+  background-color: #00A9FF;
+  width: 40vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.child-1{
+  width: 60%;
+}
+.parent-login{
+  display: flex;
+}
+.right-wrapper{
+  display: inline-block;
+
+}
+.right-wrapper-text1{
+  color: white;
+  font-size: 4vmax;
+  font-weight: bold;
+}
+.right-wrapper-text2{
+  color: white;
+  font-size: 1.5vmax;
+}
+.right-wrapper-btn{
+  width: 15vw;
+  height: 6.5vh;
+  border-radius: 2vmax;
+  font-size: 2vmin;
+  font-weight: bold;
+  margin-top: 1vmax;
+  border: white;
+}
+.login-area-headline{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  font-size: 2vmax;
+}
+.login-area-wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-login{
+  width: 15vw;
+  height: 6.5vh;
+  border-radius: 2vmax;
+  font-size: 2vmin;
+  font-weight: bold;
+  margin-top: 1vmax;
+  border: white;
+  color: white;
+  background-color: #00A9FF;
+}
+.email{
+  width: 30vw;
+  height: 6.5vh;
+  border-radius: 0.5vmax;
+  border: white;
+  font-size: 2vmin;
+  font-weight: bold;
+  margin: 1.5vmax;
+  color: black;
+  background-color: rgb(245, 245, 241);
+  -webkit-border-radius: 0.5vmax;
+  -moz-border-radius: 0.5vmax;
+  -ms-border-radius: 0.5vmax;
+  -o-border-radius: 0.5vmax;
+}
